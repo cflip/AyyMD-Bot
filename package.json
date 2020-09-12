@@ -1,6 +1,6 @@
 {
   "name": "ayymd-bot",
-  "version": "1.0.0",
+  "version": "9.1.0",
   "description": "A Discord bot with various specialized commands.",
   "main": "kirbbot4.0.js",
   "scripts": {
