@@ -1,0 +1,16 @@
+{
+  "name": "botte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "3c5FxgP8.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/vision": "^2.1.1",
+    "discord.js": "^12.2.0",
+    "tesseract.js": "^2.1.1"
+  }
+}
