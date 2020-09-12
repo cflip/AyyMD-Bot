@@ -1,5 +1,4 @@
 {
-    "token": "YourToken"
-    ,
-    "allowedchannels": [channel-id, these are the channels the bot will respond to commands in]
-  }
+	"token": "YourToken",
+	"allowedchannels": [channel-id, these are the channels the bot will respond to commands in]
+}
