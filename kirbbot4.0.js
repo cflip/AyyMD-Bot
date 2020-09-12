@@ -1,8 +1,6 @@
 const Discord = require('discord.js');
-const vision = require('@google-cloud/vision');
 const Tesseract = require ('tesseract.js')
 const dclient = new Discord.Client();
-const vclient = new vision.ImageAnnotatorClient();
 const config = require("./config.json");
 
 async function ocr(message) {
