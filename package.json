@@ -4,7 +4,7 @@
   "description": "",
   "main": "3c5FxgP8.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node kirbbot4.0.js"
   },
   "author": "",
   "license": "ISC",
