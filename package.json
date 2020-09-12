@@ -1,12 +1,12 @@
 {
-  "name": "botte",
+  "name": "ayymd-bot",
   "version": "1.0.0",
-  "description": "",
-  "main": "3c5FxgP8.js",
+  "description": "A Discord bot with various specialized commands.",
+  "main": "kirbbot4.0.js",
   "scripts": {
     "start": "node kirbbot4.0.js"
   },
-  "author": "",
+  "author": "KirbAyyMD",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.2.0",
